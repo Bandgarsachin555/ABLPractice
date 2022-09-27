@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestLayer.PimPageTest">
+      <class name="TestNg.Demo2">
         <methods>
-          <include name="admin"/>
+          <include name="pqr"/>
         </methods>
-      </class> <!-- TestLayer.PimPageTest -->
+      </class> <!-- TestNg.Demo2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
